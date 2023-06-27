@@ -23,7 +23,8 @@ This is a web based application developed for health related telugu based websit
 
 ### Home-
  
-![Screenshot (77)](https://github.com/varshikakotha/FRT_Project/assets/108129733/4e0ddaf6-7d71-4654-b298-934e73d42432)
+![Screenshot (76)](https://github.com/varshikakotha/FRT_Project/assets/108129733/3d38882e-233e-4151-a447-7a1dc9de338c)
+
 
 
 

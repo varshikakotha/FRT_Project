@@ -7,10 +7,13 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://purple-ocean-0bc834e00.3.azurestaticapps.net/
+
 **Project demo video link** - 
 
 ## Azure technologies used for Project
+
 •	Static web apps
+
 •	Health bot
 
 
